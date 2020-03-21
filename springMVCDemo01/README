@@ -1,5 +1,6 @@
-1, spring核心包 ，日志包
-2, web部署描述符：配置核心servlet及其xml文件
-3, 首页页面
-4, Controller
+1, spring的4个基础包 ，2个web包，1个日志包
+2, web部署描述符：配置核心servlet（含默认[servletName]-servlet.xml文件
+3, 首页页面：默认放在安全目录WEB-INF下
+4, 基础Controller:这里采用全路径方式，没有配置ViewResolver
+5, web项目的根目录为WebRoot, 在程序中表示为:/
  
